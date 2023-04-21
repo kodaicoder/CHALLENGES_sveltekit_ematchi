@@ -26,6 +26,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Ematchi 🤯 - emojis matching games</title>
+</svelte:head>
+
 <Game
 	bind:this={game}
 	on:play={playHandler}
