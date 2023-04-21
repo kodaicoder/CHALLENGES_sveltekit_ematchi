@@ -28,6 +28,8 @@
 
 <svelte:head>
 	<title>Ematchi 🤯 - emojis matching games</title>
+	<meta name="description" content="emojis matching games" />
+	<meta name="keywords" content="HTML, CSS, JavaScript, Svelte, Emoji, Game" />
 </svelte:head>
 
 <Game
